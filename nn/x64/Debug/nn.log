@@ -1,0 +1,16 @@
+﻿  HiddenLayer.cpp
+C:\Users\Katarzyna\source\repos\nn\nn\HiddenLayer.cpp(72,21): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  HiddenNeuron.cpp
+  InputLayer.cpp
+C:\Users\Katarzyna\source\repos\nn\nn\InputLayer.cpp(32,21): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  InputNeuron.cpp
+  Layer.cpp
+  Neuron.cpp
+  NeuralNetwork.cpp
+C:\Users\Katarzyna\source\repos\nn\nn\NeuralNetwork.cpp(57,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  OutputLayer.cpp
+C:\Users\Katarzyna\source\repos\nn\nn\OutputLayer.cpp(53,21): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  OutputNeuron.cpp
+  Generating Code...
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\Katarzyna\source\repos\nn\x64\Debug\nn.exe : fatal error LNK1120: 1 unresolved externals
